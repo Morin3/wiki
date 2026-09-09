@@ -135,7 +135,7 @@
     "nanoid": "3.3.8",
     "node-2fa": "1.1.2",
     "node-cache": "5.1.2",
-    "nodemailer": "6.9.9",
+    "nodemailer": "9.1.1",
     "objection": "3.0.0",
     "passport": "0.6.0",
     "passport-auth0": "1.4.4",
